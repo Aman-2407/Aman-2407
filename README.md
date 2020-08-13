@@ -6,7 +6,7 @@
 Gist About me
 
 
- *  :student: Currrently a Graduation Student majoring in Computer Application
+ *  :mortar_board: Currrently a Graduation Student majoring in Computer Application
  *  :desktop_computer:  Learning everyday, currently learning Angular.js
  *  :climbing_man:  I try to:  Go beyond and push the bounds
  
