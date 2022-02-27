@@ -6,8 +6,8 @@
 Gist About me
 
 
- *  :mortar_board: Currrently a Graduation Student majoring in Computer Application
- *  :desktop_computer:  Learning everyday, currently learning Angular.js
+ *  :mortar_board: Currrently a Post Graduation Student majoring in Master In Computer Application
+ *  :desktop_computer:  Learning everyday, currently in a college project named as ERP.
  *  :climbing_man:  I try to:  Go beyond and push the bounds
  
  ### Other place you can find me
@@ -16,7 +16,7 @@ Gist About me
  
  
  ###
-Any fool can write code that a computer can understand. Good programmers write code that humans can understand.
+Just Keep Debugging...
 
 Happy Coding :heart:!!
 
