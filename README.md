@@ -10,9 +10,11 @@ Gist About me
  *  :desktop_computer:  Learning everyday, currently in a college project named as ERP.
  *  :climbing_man:  I try to:  Go beyond and push the bounds
  
- ### Other place you can find me
+ ### Other places you can find me
  
- :hatched_chick:  [See my Tweet](https://twitter.com/aman_07verma)
+ <a href="https://twitter.com/aman_07verma"><img src="https://img.icons8.com/ios-glyphs/30/000000/twitter--v1.png"/></a>
+ <a href="https://www.linkedin.com/in/aman-verma-313080211/"><img src="https://img.icons8.com/ios-glyphs/30/000000/linkedin.png"/></a>
+ 
  
  
  ###
