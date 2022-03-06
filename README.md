@@ -12,8 +12,8 @@ Gist About me
  
  ### Other places you can find me
  
- <a href="https://twitter.com/aman_07verma"><img src="https://img.icons8.com/ios-glyphs/30/000000/twitter--v1.png"/></a>
- <a href="https://www.linkedin.com/in/aman-verma-313080211/"><img src="https://img.icons8.com/ios-glyphs/30/000000/linkedin.png"/></a>
+ <a href="https://twitter.com/aman_07verma"><img src="https://img.icons8.com/color/50/000000/twitter--v1.png"/></a>
+ <a href="https://www.linkedin.com/in/aman-verma-313080211/"><img src="https://img.icons8.com/ios/50/4a90e2/linkedin.png"/></a>
  
  
  
