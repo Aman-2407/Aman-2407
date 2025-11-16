@@ -6,8 +6,8 @@
 Gist About me
 
 
- *  :mortar_board: Currrently a Post Graduation Student majoring in Master In Computer Application
- *  :desktop_computer:  Learning everyday, currently in a college project named as ERP.
+ *  :mortar_board: Former MCA Postgraduate, now a Associate Software Engineer with 2.5 years of experience at BNP Paribas
+ *  :desktop_computer:  Passionate about continuous learning — from college ERP projects to enterprise-grade systems
  *  :climbing_man:  I try to:  Go beyond and push the bounds
  
  ### Other places you can find me
